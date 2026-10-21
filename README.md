@@ -4,14 +4,12 @@ A deeper look into global public health and social welfare reveals a complex and
 
 This repository serves as an open-source academic repository bridging economic analysis, social work frameworks, neurodiversity, and public health policy.
 
-
 ##  Comprehensive Research Index
 1. **Down Syndrome & Neurodevelopmental Variations**
 2. **Advanced Maternal Age (35+) & Fetal Health Outcomes**
 3. **Socio-Economic Drivers of Eldercare Neglect & The Structural Caregiver Crisis in Developed Economies (Australia & Canada)**
 
 #  COMPREHENSIVE RESEARCH REPORT: Societal Eldercare Deficit & The Systemic Caregiver Shortage in Australia & Canada
-
 
 ## SECTION 1: Socio-Economic, Cultural, and Psychological Drivers of Eldercare Neglect
 
