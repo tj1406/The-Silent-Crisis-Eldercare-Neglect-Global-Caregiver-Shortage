@@ -1,21 +1,17 @@
 # The-Silent-Crisis-Eldercare-Neglect-Global-Caregiver-Shortage
 A deeper look into global public health and social welfare reveals a complex and worrying trend: a societal shift away from personal eldercare, simultaneous with an acute caregiver shortage in developed nations like Australia and Canada.
-# 🧠 Advanced Public Health, Social Welfare & Geriatric Care Research Portfolio
+#  Advanced Public Health, Social Welfare & Geriatric Care Research Portfolio
 
 This repository serves as an open-source academic repository bridging economic analysis, social work frameworks, neurodiversity, and public health policy.
 
----
 
-## 📌 Comprehensive Research Index
+##  Comprehensive Research Index
 1. **Down Syndrome & Neurodevelopmental Variations**
 2. **Advanced Maternal Age (35+) & Fetal Health Outcomes**
 3. **Socio-Economic Drivers of Eldercare Neglect & The Structural Caregiver Crisis in Developed Economies (Australia & Canada)**
 
----
+#  COMPREHENSIVE RESEARCH REPORT: Societal Eldercare Deficit & The Systemic Caregiver Shortage in Australia & Canada
 
-# 🌍 COMPREHENSIVE RESEARCH REPORT: Societal Eldercare Deficit & The Systemic Caregiver Shortage in Australia & Canada
-
----
 
 ## SECTION 1: Socio-Economic, Cultural, and Psychological Drivers of Eldercare Neglect
 
@@ -41,7 +37,6 @@ The shifting paradigm of modern family structures and economic pressures has int
 * **Absence of Caregiver Literacy:** Family members lacking formal education in geriatric psychology or neurological care do not possess the skills to handle behavioral and psychological symptoms of dementia (BPSD), leading to frustration, familial friction, and psychological alienation of the senior.
 * **Caregiver Burnout and Empathy Fatigue:** Unpaid family caregivers often face chronic stress, isolation, and clinical depression (caregiver burnout). Without institutional respite, chronic fatigue deteriorates the quality of care, sometimes manifesting as passive or active neglect.
 
----
 
 ## SECTION 2: The Structural Caregiver Crisis in Australia and Canada
 
@@ -62,9 +57,8 @@ Developed welfare states like Australia and Canada are facing an unprecedented s
 * **The Foreign Credential Recognition (FCR) Trap:** Internationally educated nurses, doctors, and certified caregivers migrating to these countries face lengthy, highly bureaucratic, and expensive credential assessment processes, examinations, and supervised placement requirements. 
 * **Underutilization of Immigrant Capital:** Highly skilled medical and care professionals from developing nations are frequently bottlenecked into low-wage, non-healthcare survival jobs for years due to regulatory gatekeeping, failing to alleviate the immediate domestic care crisis.
 
----
 
-## 💡 Policy Recommendations & Social Work Implications
+##  Policy Recommendations & Social Work Implications
 
 1. **Macro-Level Policy Interventions:**
    * Transition aged-care workers from minimum-wage brackets to professional healthcare pay scales with guaranteed benefits, hazard pay, and clear career progression pathways.
@@ -74,9 +68,6 @@ Developed welfare states like Australia and Canada are facing an unprecedented s
    * Expand government-subsidized adult day-care centers, community respite care programs, and institutional psychological support networks specifically designed to combat family caregiver burnout.
    * Implement nationwide public education campaigns to reframe aging, eliminate structural ageism, and raise public health literacy regarding neurodegenerative conditions like dementia.
 
----
 
 ## ⚠️ Academic Disclaimer
 *This document is compiled strictly for academic research, open-source knowledge sharing, and social welfare advocacy purposes.*
-
----
